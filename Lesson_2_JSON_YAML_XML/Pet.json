@@ -1,0 +1,7 @@
+{
+  "name": "Pet",
+  "type": "Cat",
+  "age": 3,
+  "alive": true,
+  "hobbies": ["playing with a ball", "sunbathing", "chasing a string"]
+}
