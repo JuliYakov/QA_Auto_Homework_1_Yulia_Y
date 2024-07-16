@@ -12,7 +12,7 @@ public class Main {
             emp.performJob();
             emp.describeRole();
             emp.describeRole("Age: " + emp.getAge() + ", Salary: $" + (int) emp.getSalary());
-            System.out.println();  // Separate each employee's details
+            System.out.println();
         }
     }
 }
